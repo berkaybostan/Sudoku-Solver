@@ -1,0 +1,12 @@
+C:\Users\Berkay\Documents\Visual Studio 2017\Projects\SudokuSolver\SudokuSolver\bin\Debug\SudokuSolver.exe.config
+C:\Users\Berkay\Documents\Visual Studio 2017\Projects\SudokuSolver\SudokuSolver\bin\Debug\SudokuSolver.exe
+C:\Users\Berkay\Documents\Visual Studio 2017\Projects\SudokuSolver\SudokuSolver\bin\Debug\SudokuSolver.pdb
+C:\Users\Berkay\Documents\Visual Studio 2017\Projects\SudokuSolver\SudokuSolver\obj\Debug\SudokuSolver.csprojResolveAssemblyReference.cache
+C:\Users\Berkay\Documents\Visual Studio 2017\Projects\SudokuSolver\SudokuSolver\obj\Debug\SudokuSolver.Form1.resources
+C:\Users\Berkay\Documents\Visual Studio 2017\Projects\SudokuSolver\SudokuSolver\obj\Debug\SudokuSolver.Form2.resources
+C:\Users\Berkay\Documents\Visual Studio 2017\Projects\SudokuSolver\SudokuSolver\obj\Debug\SudokuSolver.Form3.resources
+C:\Users\Berkay\Documents\Visual Studio 2017\Projects\SudokuSolver\SudokuSolver\obj\Debug\SudokuSolver.Properties.Resources.resources
+C:\Users\Berkay\Documents\Visual Studio 2017\Projects\SudokuSolver\SudokuSolver\obj\Debug\SudokuSolver.csproj.GenerateResource.Cache
+C:\Users\Berkay\Documents\Visual Studio 2017\Projects\SudokuSolver\SudokuSolver\obj\Debug\SudokuSolver.csproj.CoreCompileInputs.cache
+C:\Users\Berkay\Documents\Visual Studio 2017\Projects\SudokuSolver\SudokuSolver\obj\Debug\SudokuSolver.exe
+C:\Users\Berkay\Documents\Visual Studio 2017\Projects\SudokuSolver\SudokuSolver\obj\Debug\SudokuSolver.pdb
